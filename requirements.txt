@@ -1,4 +1,8 @@
 altair==5.4.1
+Flask==2.3.3
+python-dotenv==1.0.0
+google-generativeai==0.1.0
+
 annotated-types==0.7.0
 attrs==24.2.0
 blinker==1.8.2
